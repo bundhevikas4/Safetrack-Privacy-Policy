@@ -1,9 +1,7 @@
-# Safetrack-Privacy-Policy
-Safetrack Privacy Policy
-✅ SafeTrack – Privacy Policy (Full Document)
+✅ SafeTrack – Privacy Policy 
 
 Privacy Policy for SafeTrack
-Last Updated: [replace date]
+Last Updated: 25/11/2025
 
 SafeTrack (“we”, “our”, “us”) is committed to protecting the privacy of parents and children who use our application. This Privacy Policy explains how we collect, use, store, and protect your data when you use the SafeTrack child monitoring app and its related services.
 
@@ -115,13 +113,4 @@ Data export
 Account removal
 
 Contact us at:
-📧 [your email]
-
-9. Changes to Privacy Policy
-
-We may update this policy. Updated versions will be posted on the same link.
-
-10. Contact Information
-
-For any privacy-related questions, contact:
-📧 [your email]
+bundhevikas4@gmail.com
